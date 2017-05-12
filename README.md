@@ -1,5 +1,7 @@
 # loess
 
+![Build Status](https://travis-ci.org/agiom/loess.svg?branch=master)
+
 JavaScript implementation of the Locally-Weighted Regression package originally written in C by Cleveland, Grosse and Shyu (1992)
 
 ## Getting started
